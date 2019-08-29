@@ -1,1 +1,1 @@
-browser-sync start --server --files "php/*.php,css/*.css,js/*.js,html/*.html,*.*"
+browser-sync start runas /user:Hamster726 /high --server --files "style/*.css,src/*.js,/*.html,*.*"
